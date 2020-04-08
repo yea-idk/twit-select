@@ -1,0 +1,3 @@
+add people to this file
+you do not need to remove the @ since twit-select will do that on its own
+you can use http://twitual.com to quickly get a list to copy-paste to this file
